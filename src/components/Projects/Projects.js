@@ -2,16 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import Amazon from "../../Assets/Projects/Amazon.jpg"
 import FoodOrderApp from "../../Assets/Projects/FoodOrderApp.jpg"
 import LavyaBlockPrints from "../../Assets/Projects/LavyaBlockPrints.jpg"
 import onlineFileManager from "../../Assets/Projects/onlineFileManager.jpg"
 import SriAurobindo from "../../Assets/Projects/SriAurobindo.jpg"
-
-
-
 
 
 function Projects() {

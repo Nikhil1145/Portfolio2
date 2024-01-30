@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently looking for MERN stack Jobs.
             <br />
-           I am a final year student at Arya College Jaipur.
+           I am a final year student at Arya College , Jaipur.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
