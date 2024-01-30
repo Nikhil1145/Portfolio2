@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nikhil Jain </span>
             from <span className="purple"> Jaipur, India.</span>
             <br />
-            I am currently looking for MENR stack Jobs.
+            I am currently looking for MERN stack Jobs.
             <br />
            I am a final year student at Arya College Jaipur.
             <br />

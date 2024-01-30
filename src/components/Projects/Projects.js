@@ -33,7 +33,7 @@ function Projects() {
               title="Amazon Clone"
               description="The Amazon clone project, developed with React and Firebase, seamlessly integrates user-friendly interfaces and robust backend services."
               ghLink="https://github.com/Nikhil1145/Amazon-Clone"
-              demoLink="https://chatify-49.web.app/"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -43,7 +43,7 @@ function Projects() {
               isBlog={false}
               title="Online File Manager"
               description="The Online Storage Manager project, developed with Svelte and Firebase, offers a seamless and secure platform for users to manage their digital assets."
-              demoLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              // demoLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               ghLink="https://github.com/Nikhil1145/Firebase-FileExplorer"
             />
           </Col>
@@ -54,7 +54,7 @@ function Projects() {
               isBlog={false}
               title="Sri Aurobindo"
               description="The Sri Aurobindo Website, meticulously crafted with Svelte and Firebase, serves as a comprehensive digital platform dedicated to the life and teachings of Sri Aurobindo."
-              demoLink="https://github.com/soumyajit4419/Editor.io"
+              // demoLink="https://github.com/soumyajit4419/Editor.io"
               ghLink="https://github.com/Nikhil1145/Sri-Aurobindo2"              
             />
           </Col>
@@ -65,7 +65,7 @@ function Projects() {
               isBlog={false}
               title="Lavya Block Prints"
               description="Lavya Block Prints, an E-commerce website crafted with React JS, brings the timeless art of block printing to the digital forefront. This platform offers a visually captivating and user-friendly interface, allowing customers to explore and purchase exquisite block-printed products.."
-              demoLink="https://github.com/soumyajit4419/Plant_AI"
+              // demoLink="https://github.com/soumyajit4419/Plant_AI"
               ghLink="https://github.com/Nikhil1145/LavyaPrints"
             />
           </Col>
